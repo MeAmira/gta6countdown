@@ -1,0 +1,15 @@
+#background-img {
+    background-image: url(img/Jason_and_Lucia_02_landscape.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+
+#text-stuff {
+    text-align: center;
+}
+
+#sum-color {
+    font-weight: bold;
+}
